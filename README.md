@@ -10,7 +10,7 @@ A bit about me:
 
 🙋🏻‍♀️ she/her
 
-📃  You can check my [portfolio](serenakang.com)
+📃  You can check my portfolio here([serenakang.com](https://serenakang.com/))
 
 When I'm not at my screen:
 
