@@ -10,6 +10,8 @@ A bit about me:
 
 🙋🏻‍♀️ she/her
 
+📃  You can check my [portfolio](serenakang.com)
+
 When I'm not at my screen:
 
 ```
