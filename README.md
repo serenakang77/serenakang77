@@ -19,3 +19,5 @@ When I'm not at my screen:
 🏔    Hike and be with nature
 💻   Play League of Legends
 ```
+
+[![serenakang's GitHub stats](https://github-readme-stats.vercel.app/api?username=serenakang77&show_icons=true&theme=radical)](https://github.com/lunarpirate/github-readme-stats)
