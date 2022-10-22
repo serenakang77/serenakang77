@@ -15,7 +15,7 @@ A bit about me:
 When I'm not at my screen:
 
 ```
-🍜🍰   Foodie
-🏔      Hike and be with nature
-💻     Play League of Legends
+🍜🍰 Foodie
+🏔    Hike and be with nature
+💻   Play League of Legends
 ```
